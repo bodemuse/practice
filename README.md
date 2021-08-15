@@ -1,2 +1,2 @@
-# practice
-Practice
+# fintech
+readings about financial technology
